@@ -153,14 +153,6 @@ http://www.templatemo.com/tm-495-metro-fit
 
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
 
-                    <div class="tm-content-box">
-                        <i class="fa fa-4x fa-bicycle tm-content-icon"></i>
-                        <h2 class="tm-content-title">Mauris viverra ipsum</h2>
-                        <p>You can <strong>easily</strong> change <a rel="nofollow" href="http://fontawesome.io/icons/" target="_blank">Font Awesome icons</a> in HTML codes. Metro Fit is free HTML CSS web template from Templatemo.</p>
-                        <p>Vestibulum ante nibh, sagittis dapibus dui nec, dictum sagittis quam. Integer mollis augue nex eros iaculis, eget hendrerit tortor feugiat.</p>
-                        <p>Quisque eu lectus quis tortor efficitur sollicitudin at eu elit. Aliquam a sagittis lectus, semper porta.</p>
-                    </div>
-
                 </div>
 
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4">
